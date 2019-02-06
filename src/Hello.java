@@ -6,5 +6,5 @@ public class Hello {
 }
 
 private class Nope {
-    System.out.print("tjena"");
+    System.out.print("you have been infected! :)");
 }
