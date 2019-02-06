@@ -3,5 +3,8 @@
 public class Hello {
 
 
-    System.out.print();
+    System.out.print("hello world!");
+}
+
+private class Nope {
 }
