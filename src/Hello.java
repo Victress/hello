@@ -3,5 +3,5 @@
 public class Hello {
 
 
-    System.out.print();
+    System.out.print("tjena"");
 }
